@@ -4,6 +4,8 @@
 
 # Cangrejob 🦀
 
+**🌐 Idioma · Language:** **Español** · [English](README.en.md)
+
 ### Tu CV directo a quien decide, no a un portal.
 
 *Empleo a puerta fría, hecho fácil.*
@@ -45,15 +47,6 @@ Todo guiado, paso a paso. Empiezas gratis.
 - 🧭 **Te guía** — te decimos dónde buscar y a quién escribir.
 - ⏱️ **Ahorras horas** — dejas atrás el copia-pega en mil formularios.
 - ✅ **Tú tienes el control** — revisas y apruebas antes de enviar.
-
----
-
-## In English
-
-**Cangrejob** helps job seekers reach companies **directly** instead of getting lost in
-job boards. Upload your CV, discover which roles and businesses fit you best, and send a
-**personalized application** to each one — you review, you decide. Cold outreach for jobs,
-made simple. Start for free.
 
 ---
 
