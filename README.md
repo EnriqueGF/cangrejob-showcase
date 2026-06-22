@@ -52,7 +52,11 @@ Todo guiado, paso a paso. Empiezas gratis.
 
 <div align="center">
 
-🚧 **En desarrollo — próximamente.** 🚧
+### 🚀 ¡Ya está en marcha!
+
+## [👉 Pruébala en cangrejob.com](https://cangrejob.com)
+
+Sube tu CV y lanza tu primera campaña en minutos. Empiezas gratis.
 
 <sub>© 2026 Cangrejob. Todos los derechos reservados.</sub>
 

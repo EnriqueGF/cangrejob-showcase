@@ -51,7 +51,11 @@ Fully guided, step by step. Start for free.
 
 <div align="center">
 
-🚧 **In development — coming soon.** 🚧
+### 🚀 It's live!
+
+## [👉 Try it at cangrejob.com](https://cangrejob.com)
+
+Upload your CV and launch your first campaign in minutes. Start for free.
 
 <sub>© 2026 Cangrejob. All rights reserved.</sub>
 
